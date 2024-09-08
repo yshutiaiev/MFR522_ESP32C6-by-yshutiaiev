@@ -1,0 +1,15 @@
+{
+  "name": "MFRC522_ESP32C6 by yshutiaiev",
+  "version": "1.4.11",
+  "license": "Unlicense",
+  "keywords": "rfid, spi",
+  "description": "Arduino RFID Library for MFRC522 adapted for ESP32C6 by Shutiaiev Yehor",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/miguelbalboa/rfid.git"
+  },
+  "exclude": "doc",
+  "frameworks": "arduino",
+  "platforms": ["atmelavr", "atmelsam", "ststm32", "espressif8266", "espressif32", "samd", "ESP32C6"]
+}
